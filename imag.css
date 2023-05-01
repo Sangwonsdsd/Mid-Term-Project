@@ -5,7 +5,7 @@ img.round {
     margin-bottom: 20px;
 }
 
-p.color {
+p.pcolor {
     font-size: 15px;
     color: #444444;
     line-height: 1;
@@ -14,19 +14,19 @@ p.color {
 }
 
 
-h1.color1 {
+h1.hcolor1 {
     font-size: 36px;
     color: #97b5e4;
     margin-bottom: 20px;
 }
 
-h1.color2 {
+h1.hcolor2 {
     font-size: 36px;
     color: #a3c3f7;
     margin-bottom: 20px;
 }
 
-h1.color3 {
+h1.hcolor3 {
     font-size: 20px;
     color: #5c5c5c;
     margin-bottom: 20px;
